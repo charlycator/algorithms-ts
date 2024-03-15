@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "mocha --require ts-node/register --extensions ts --watch --watch-files src 'tests/**/*.{ts,tsx}'",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.12",
+    "@types/mocha": "^10.0.6",
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0",
+    "ts-node": "^10.9.2"
+  }
+}
