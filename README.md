@@ -1,2 +1,7 @@
 # algorithms-ts
-Algorithm in Typescript
+Algorithms in Typescript
+
+- Binary search
+- BFS
+- DFS
+- Merkel tree
